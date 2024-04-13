@@ -8,7 +8,14 @@
   <li>Git Hub page</li>
   <li>UPI Gate way</li>
 </ol>
-<b> USED FUNCTIONALITY</b>
+<b> RUN </b>
+<ol>
+  <li>git clone </li>
+  <li>CSS</li>
+  <li>Java Script</li>
+  <li>Git Hub page</li>
+  <li>UPI Gate way</li>
+</ol>
 
 <h1>My food website</h1>
 
