@@ -1,4 +1,15 @@
-#FOOD WEBSITE
+<h1>My food website</h1>
+
+<b> USED FUNCTIONALITY</b>
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Java Script</li>
+  <li>Git Hub page</li>
+  <li>UPI Gate way</li>
+</ol>
+<b> USED FUNCTIONALITY</b>
+
 <h1>My food website</h1>
 
 ![image](https://github.com/mrigankabrahma/Food-Website/assets/88397563/f1a5742f-9c2f-4dc5-b500-28a752754d41)
