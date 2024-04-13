@@ -1,4 +1,4 @@
-<h1>My food website</h1>
+<h1>😍My food website</h1>
 
 <b> USED FUNCTIONALITY</b>
 <ol>
@@ -8,16 +8,18 @@
   <li>Git Hub page</li>
   <li>UPI Gate way</li>
 </ol>
-<b> RUN </b>
+<b>👇 RUN </b>
 <ol>
-  <li>git clone </li>
-  <li>CSS</li>
-  <li>Java Script</li>
-  <li>Git Hub page</li>
-  <li>UPI Gate way</li>
+  <li>git clone https://github.com/mrigankabrahma/Food-Website.git</li>
+  <li>VS CODE</li>
+  <li>live server</li>
 </ol>
 
-<h1>My food website</h1>
+<b>🤩Webiste Link</b>
+
+<p> https://mrigankabrahma.github.io/Food-Website/index.html </p>
+
+<h1>😎😎My food website</h1>
 
 ![image](https://github.com/mrigankabrahma/Food-Website/assets/88397563/f1a5742f-9c2f-4dc5-b500-28a752754d41)
 
